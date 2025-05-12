@@ -1,0 +1,110 @@
+{
+  "version": "3.77.30587.0",
+  "course_id": "6fdMQqu3iNf",
+  "title": "Operations Microlearning Simulation",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6XopHiNQ7mo",
+      "title": "Introduction pt1",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5uiwAHHCXo4",
+      "title": "introduction pt 2",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6RsfKNPNDZE",
+      "title": "introduction pt 3",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6K1KSuZDgb1",
+      "title": "Assessment item",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5epIO8MVpts",
+      "title": "pa",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "65kxqmkfCXr",
+      "title": "pa 2nd try",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6Yf8eTQGSbK",
+      "title": "ac",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6izZtK60Ql1",
+      "title": "code click",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5rJ9CpnvVCS",
+      "title": "click ok",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6SE5uqOfdCl",
+      "title": "click ok AGAIN",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "6g1ieI30us0",
+      "title": "click ok AGAIN 2nd try",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "5l6Ckz6CfbH",
+      "title": "click ok 2nd try",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "646poDLORkz",
+      "title": "notate",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "5tv2c1yrnfn",
+      "title": "Congratulations!",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "62BtYjIVav0",
+      "title": "code click 2nd try",
+      "scene_index": "1.15"
+    },
+    {
+      "id": "5XXOQSOVrW4",
+      "title": "ac 2nd try",
+      "scene_index": "1.16"
+    },
+    {
+      "id": "6ZKdCAw7ZG6",
+      "title": "Untitled Slide",
+      "scene_index": "2.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
